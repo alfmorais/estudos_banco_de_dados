@@ -1,2 +1,3 @@
-# estudos_banco_de_dados
-Curso Completo de Banco de Dados com Felipe Mafra
+# Estudos - Banco de Dados Relacionais. 
+
+1. Curso Completo de Banco de Dados com Felipe Mafra
